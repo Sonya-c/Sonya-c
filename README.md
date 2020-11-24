@@ -1,4 +1,4 @@
-### Hi there 👋
+### ¡Hola! ✨
 
 <!--
 **Sonya-c/Sonya-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
