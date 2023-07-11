@@ -2,7 +2,6 @@
 <h3 align="center">Systems Engineering Student</h3>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sonya-c&show_icons=true&theme=transparent&card_width=100" alt="sonya-c" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonya-c&theme=transparent&card_width=100" alt="sonya-c" />
 </p>
 
