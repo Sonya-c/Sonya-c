@@ -4,11 +4,10 @@
   
 
 ### <div align="center">I'm Sonya, an enthusiastic student of software development and programming 👩‍💻
-<!--
-* 🔭 I’m currently working on []()
+
+* 🔭 I’m currently studying computer science.
 * 🌱 I’m currently learning microservices. 
-* ⚡ Fun fact: </div>  
--->
+* ⚡ Fun fact: my favorite food is [Mote de queso](https://en.wikipedia.org/wiki/Mote_de_queso).
 
 ## My Skill Set  
 
